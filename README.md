@@ -27,7 +27,7 @@ Work in the Artificial Intelligence discipline where the Prolog programming lang
 
 ---
 
-### 📫 Entre em Contato
+### 📫 Contats
 
 - 📧 E-mail: [freitaseloy.1@gmail.com](mailto:freitaseloy.1@gmail.com)
 - 💼 LinkedIn: [[linkedin.com/in/eloy-freitas]](https://www.linkedin.com/in/eloy-freitas-0356801bb/)
