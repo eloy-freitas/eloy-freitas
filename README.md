@@ -8,22 +8,22 @@ I began my career in 2022 as a Data Engineer, making ETL flows with Python, SQL,
 
 ---
 
-### 🚀 Habilidades & Tecnologias
+### 🚀 Skiss and Tecnology
 
-- **Linguagens:** Python (Pandas, NumPy, Matplotlib, Airflow), SQL
-- **Ferramentas de BI:** Power BI
-- **ETL & Bancos de Dados:** PostgreSQL, MySQL, Apache Airflow, Oracle
+- **Lenguages:** Python (Pandas, NumPy, Matplotlib, Airflow), SQL
+- **BI tools:** Power BI
+- **ETL & SGBDs:** PostgreSQL, MySQL, Apache Airflow, Oracle
 - **Cloud & Big Data:** AWS (S3, Textract, DynamoDB, EC2, Cloud Formation)
-- **Versionamento & Colaboração:** Git, GitHub, Azure Devops
+- **Versioning & Collaboration:** Git, GitHub, Azure Devops
 ---
 
-### 📊 Projetos Destacados
+### 📊 Favorite Projects
 
-🔹 [**ETL de Dados para um DW Python, Airflow e Postgres**]([https://github.com/seuusuario/etl-dados-publicos](https://github.com/eloy-freitas/TCC2))  
-Implementação da minha tese defendida no TCC, onde foi constuído um Data Warehouse automatizado com Python, Apache Airflow e Postgres para analisar a evasão estudantil dos alunos da UFES.
+🔹 [**ETL a Data Warehouing Python, Airflow e Postgres**]([https://github.com/seuusuario/etl-dados-publicos](https://github.com/eloy-freitas/TCC2))  
+Implementation of my thesis defended at TCC, where it was built ETL flow to feed a Data Warehouse with Python, Apache Airflow and Postgres to analyze student dropout rates among UFES students.
 
 🔹 [**Ganhando uma corrida com Prolog**]([https://github.com/seuusuario/dashboard-powerbi](https://github.com/eloy-freitas/trabalho_corrida_prolog))  
-Trabalho da disciplina de Inteligência Artificial onde foi utilizado a linguagem de programação Prolog para controlar um carrinho para desviar dos obstáculos e ganhar a corrida.
+Work in the Artificial Intelligence discipline where the Prolog programming language was used to control a cart to avoid obstacles and win the race.
 
 ---
 
