@@ -4,7 +4,7 @@
 
 Computer scientist graduated from the Federal University of Espírito Santo (UFES), Brazil.
 
-I began my career in 2022 as a Data Engineer, making ETL flows with Python, SQL, and Airflow to maintain databases and data warehouses in healthcare companies in Brazil.
+I began my career in 2021 as a Data Engineer, making ETL flows with Python, SQL, and Airflow to maintain databases and data warehouses in healthcare companies in Brazil.
 
 ---
 
